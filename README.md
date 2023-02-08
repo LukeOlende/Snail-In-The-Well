@@ -15,4 +15,4 @@ Day 3: 10+7-2=15
 Day 4: 15+7-2=20  
 Day 5: 20+7-2=25  
 Day 6: 25+7=32  
-So, on Day 6 the snail will reach 32 feet and get out of the well at day, without slipping back that night.
+So, on Day 6 the snail will reach 32 meters and get out of the well at day, without slipping back that night.
